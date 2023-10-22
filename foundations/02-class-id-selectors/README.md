@@ -15,9 +15,6 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 > ### Note:
 > Part of your task is to add a font to _some_ of these items. Your browser's font's might be different than the one displayed in the desired outcome image. As long as you confirm that the fonts _are_ being applied to the right lines any differences are okay for this exercise.
 
-## Desired Outcome
-![desired outcome](./desired-outcome.png)
-
 
 ### Self Check
 - Do the odd numbered `p` elements share a class?
