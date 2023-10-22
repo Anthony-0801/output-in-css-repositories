@@ -12,9 +12,6 @@ The properties you need to add to each element are:
 * `p`: a green background, white text, and a font size of 18px
 * `button`: an orange background and a font size of 18px
 
-## Desired Outcome
-![desired outcome](./desired-outcome.png)
-
 
 ### Self Check
 - Did you use all three methods of adding CSS to an HTML file?
