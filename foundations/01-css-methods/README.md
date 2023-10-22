@@ -19,3 +19,6 @@ The properties you need to add to each element are:
 - Does the `div` element have CSS added via the external method?
 - Does the `p` element have CSS added via the internal method?
 - Does the `button` element have CSS added via the inline method?
+
+## My Output
+![css-exercise1](https://github.com/Anthony-0801/output-in-css-repositories/assets/141275535/74c16e3a-6069-436f-9496-49ba4e1034d0)
