@@ -17,3 +17,4 @@ This will help you further practice adding classes and using class selectors, so
 - Did you make separate rules for the styles unique to each element?
 
 ## My Output
+![css-exercise3](https://github.com/Anthony-0801/output-in-css-repositories/assets/141275535/ab4ae6f2-3b0f-49fa-aa08-240accba19c3)
