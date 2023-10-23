@@ -15,3 +15,4 @@ The properties you need to add are:
 - Do the elements that contain the text "This should be unstyled" have no styles applied?
 
 ## My Output
+![css-exercise5](https://github.com/Anthony-0801/output-in-css-repositories/assets/141275535/e11fe592-d1ae-463c-b9d4-2a3c5cedc894)
