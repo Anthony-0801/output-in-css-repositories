@@ -7,11 +7,11 @@ There are multiple ways to solve this exercise, and we did our best to include a
 
 Issues with the cascade can be the bane of their existence for many when it comes to CSS. While you won't become a cascade expert from this exercise alone, and there are other ways to deal with these issues, it is still super helpful to see how these issues affect our final styles and why it's important to order rules carefully.
 
-## Desired Outcome
-![desired outcome](./desired-outcome.png)
 
 ### Self Check
 - Did you make sure to not edit the HTML file?
 - If you added selectors to the CSS, do they target a valid HTML element?
 
-_Note: for accessibility reasons, the style in this exercise has changed. For new and old students, we propose to carry out the exercise noting how important it is to pay attention to the accessibility of the web, and we encourage more and more practices like this._
+_Note: for accessibility reasons, the style in this exercise has changed. For new and old students, we propose to carry out the exercise noting how important it is to pay attention to the accessibility of the web, and we encourage more and more practices like this.
+
+## My Output
