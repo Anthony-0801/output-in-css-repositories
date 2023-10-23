@@ -21,3 +21,4 @@ The properties you need to add to each element are:
 - Does the `distorted` image end up looking squished and, well, distorted?
 
 ## My Output
+![css-exercise4](https://github.com/Anthony-0801/output-in-css-repositories/assets/141275535/ddd4f31d-acab-403f-8894-d1aac4119c6f)
