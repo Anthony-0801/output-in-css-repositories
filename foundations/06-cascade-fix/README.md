@@ -15,3 +15,4 @@ Issues with the cascade can be the bane of their existence for many when it come
 _Note: for accessibility reasons, the style in this exercise has changed. For new and old students, we propose to carry out the exercise noting how important it is to pay attention to the accessibility of the web, and we encourage more and more practices like this.
 
 ## My Output
+![css-exercise6](https://github.com/Anthony-0801/output-in-css-repositories/assets/141275535/d48210a5-06b1-4fc5-9aed-1c6731174fdd)
