@@ -9,4 +9,5 @@ All you need to do is center the red div inside the blue container.
 - Did you _only_ use flexbox to center it?
 
 ## My Output
+![flex-exercise1](https://github.com/Anthony-0801/output-in-css-repositories/assets/141275535/0b50f456-5c6c-4f11-ab33-ee5c6a34fa56)
 
