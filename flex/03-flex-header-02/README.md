@@ -19,3 +19,4 @@ As with the last example, this one needs to be flexible in the middle, with item
 
 
 ## My Output
+![flex-exercise3](https://github.com/Anthony-0801/output-in-css-repositories/assets/141275535/48061ea1-1322-4dc5-9124-ba76c17d1b02)
