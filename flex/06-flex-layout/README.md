@@ -22,3 +22,4 @@ Flexbox is useful for laying out entire pages as well as the smaller components 
 
 
 ## My Output
+![flex-exercise6](https://github.com/Anthony-0801/output-in-css-repositories/assets/141275535/edd88e88-126b-4d4e-af8f-8e345ab7de3c)
