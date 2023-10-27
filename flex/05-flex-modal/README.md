@@ -18,3 +18,5 @@ Depending on how you approach this one, you might need to revisit the `flex-shri
 
 
 ## My Output
+![flex-exercise5](https://github.com/Anthony-0801/output-in-css-repositories/assets/141275535/d12213fe-b13a-4b5f-a2bc-d78361979338)
+
