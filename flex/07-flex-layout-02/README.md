@@ -26,3 +26,10 @@ As with the previous exercise, we've left a little more for you to do.
 
 
 ## My Output
+In full mode
+![flex-exercise7a](https://github.com/Anthony-0801/output-in-css-repositories/assets/141275535/f2946fdd-5925-40dd-a6f7-954c05596055)
+
+
+In compress mode
+![flex-exercise7b](https://github.com/Anthony-0801/output-in-css-repositories/assets/141275535/6a8ee8be-4c1f-4f8a-921a-c4d653ae1378)
+
