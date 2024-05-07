@@ -42,6 +42,9 @@ body {
     padding: 1rem 2rem;
     position: fixed;
     background-color: rgba(0, 0, 0, 0.5);
+    top: 0;
+    left: 0;
+    right: 0;
 }
 
 #nav-bar ul {
@@ -70,6 +73,7 @@ body {
     padding: 2rem;
     background-color: #946A42;
     flex-wrap: wrap;
+    margin-top: 6rem;
 }
 
 #gallery img {
@@ -172,3 +176,116 @@ body {
     background-color: #6e2a12;
 }
 
+/* Mobile */
+@media only screen and (max-width: 480px) {
+    #title {
+        font-size: 1.5rem;
+    }
+
+    #header-img {
+       display: none;
+    }
+
+    #nav-bar {
+        flex-direction: column;
+        align-items: center;
+        position: fixed;
+        right: 0;
+        left: 0;
+        top: 0;
+    }
+
+    #nav-bar a {
+        font-size: 1rem;
+    }
+
+    #gallery {
+        padding: 1rem;
+        margin-top: 5rem;
+    }
+
+    #gallery img {
+        width: 20%;
+        height: 10%;
+    }
+
+    #about, #contact {
+        padding: 1rem;
+    }
+
+    #about h2, #contact h2{
+        font-size: 1.5rem;
+    }
+
+    #about p, #contact label {
+        font-size: 1rem;
+    }
+
+    #contact input, #contact textarea {
+        width: 80%;
+        font-size: 0.8rem;
+    }
+
+    #contact input[type="submit"] {
+        width: 80%;
+        font-size: 1rem;
+    }
+
+    #products {
+        padding: 1rem;
+    }
+
+    #products iframe {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+/* Tablet */
+@media only screen and (min-width: 481px) and (max-width: 1023px) {
+    #title {
+        font-size: 2rem;
+    }
+
+    #header-img {
+        display: none;
+    }
+
+    #nav-bar {
+        flex-direction: column;
+        align-items: center;
+        position: fixed;
+        right: 0;
+        left: 0;
+        top: 0;
+    }
+
+    #nav-bar a {
+        font-size: 1.5rem;
+    }
+
+    #gallery {
+        margin-top: 6rem;
+    }
+    
+    #gallery img {
+        width: 30%;
+        height: 10%;
+    }
+
+    #gallery img:nth-child(-n+3) {
+        display: none;
+    }
+      
+    #about, #contact {
+        padding: 1.5rem;
+    }
+
+    #about h2, #contact h2 {
+        font-size: 1.8rem;
+    }
+
+    #about p, #contact label, #contact input[type="submit"] {
+        font-size: 1.3rem;
+    }
+}
