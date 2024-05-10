@@ -16,5 +16,50 @@ body {
     font-size: 16px;
     line-height: 1.5;
     color: white;
-    background-image: linear-gradient(90deg, #946A42 10%, #6e2a12 90%);
+    background-color: #222126;
+}
+
+#navbar {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: darkblue;
+    padding: 2.4rem 2rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    margin-right: 1rem;
+}
+
+
+#welcome-section {
+    height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1530533718754-001d2668365a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#welcome-section h1 {
+    font-size: 6rem;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#welcome-section p {
+    font-size: 1.5rem;
+    font-style: italic;
+    margin: 1rem 17rem;
 }
