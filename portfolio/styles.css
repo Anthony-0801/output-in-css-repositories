@@ -176,3 +176,38 @@ body {
     text-decoration: none;
     color: white;
 }
+
+/*Media Queries*/
+
+@media (max-width: 768px) {
+    #welcome-section h1 {
+        font-size: 4rem;
+    }
+
+    #welcome-section p {
+        font-size: 1rem;
+        margin: 1rem 1rem;
+    }
+
+    #projects {
+        flex-direction: column;
+    }
+
+    #contact h2, #profiles h2 {
+        font-size: 2rem;
+    
+    }
+
+    .project-tile {
+        width: 80%;
+    }
+
+    #contact-form input {
+        width: 80%;
+    }
+
+    #contact-form textarea {
+        width: 80%;
+    }
+}
+
