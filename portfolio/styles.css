@@ -63,3 +63,116 @@ body {
     font-style: italic;
     margin: 1rem 17rem;
 }
+
+#projects {
+    background-color: #222126;
+    padding: 2rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.project-tile {
+    background-color: #5d5656;
+    padding: 2rem;
+    margin: 1rem;
+    border-radius: 10px;
+    width: 30%;
+    text-align: justify;
+}
+
+.project-tile img {
+    width: 50%;
+    height: auto;
+}
+
+.project-tile h3 {
+    font-size: 2rem;
+    margin: 1rem 0;
+}
+
+.project-tile p {
+    font-size: 1.5rem;
+}
+
+#contact {
+    background-color: #45567D;
+    padding: 2rem;
+    text-align: center;
+
+}
+
+#contact h2 {
+    font-size: 4rem;
+    margin: 1rem 0;
+    font-weight: bold;
+}
+
+#contact-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+    flex-direction: column;
+}
+
+#contact-form label {
+    font-size: 2rem;
+    margin: 0.5rem;
+}
+
+#contact-form input {
+    width: 50%;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 10px;
+    border: none;
+}
+
+#contact-form textarea {
+    width: 50%;
+    padding: 1rem;
+    border-radius: 10px;
+    border: none;
+}
+
+#contact-form button {
+    padding: 1rem 2rem;
+    margin: 1rem;
+    border-radius: 10px;
+    border: none;
+    background-color: #222126;
+    color: white;
+    font-size: 1.5rem;
+}
+
+#contact-form button:hover {
+    background-color: #5d5656;
+}
+
+#profiles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#profiles h2 {
+    font-size: 4rem;
+    margin: 1rem 0;
+    font-weight: bold;
+}
+
+#profiles div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    flex-direction: row;
+    gap: 3rem;
+}
+
+#profile-link {
+    text-decoration: none;
+    color: white;
+}
